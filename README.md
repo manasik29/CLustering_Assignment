@@ -1,4 +1,4 @@
-# CLustering_Assignment
+# Clustering_Assignment
 
 # **Q1. Data - crime-data.csv**
 
